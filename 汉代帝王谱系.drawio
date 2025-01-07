@@ -13,7 +13,7 @@
         <mxCell id="b-vnCP4PhX5KzBLhOnXR-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2" target="b-vnCP4PhX5KzBLhOnXR-155">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2" value="刘邦" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="2" value="刘邦(汉高祖)" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="757" y="185.5" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b-vnCP4PhX5KzBLhOnXR-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="12" target="b-vnCP4PhX5KzBLhOnXR-147">
@@ -31,7 +31,7 @@
         <mxCell id="b-vnCP4PhX5KzBLhOnXR-154" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="12" target="b-vnCP4PhX5KzBLhOnXR-152">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="12" value="刘盈" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="12" value="刘盈(刘邦与吕雉嫡长子，&#xa;生性善良，是为汉惠帝)" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="419.9999999999999" y="345.5" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="59" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=1;" parent="1" source="2" target="12" edge="1">
@@ -40,28 +40,28 @@
             <mxPoint x="1466.9999999999998" y="345.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b-vnCP4PhX5KzBLhOnXR-125" value="刘如意" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="b-vnCP4PhX5KzBLhOnXR-125" value="刘如意(戚夫人之子)" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="1080" y="345.5" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="b-vnCP4PhX5KzBLhOnXR-147" value="刘恭" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="b-vnCP4PhX5KzBLhOnXR-147" value="刘恭(母为宫女，因言致祸，&#xa;被吕后杀死，是为前少帝)" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="309.9999999999999" y="505.5" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="b-vnCP4PhX5KzBLhOnXR-152" value="刘弘" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="b-vnCP4PhX5KzBLhOnXR-152" value="刘弘(血统存疑，共灭诸吕被&#xa;废，是为后少帝)" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="529.9999999999999" y="505.5" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b-vnCP4PhX5KzBLhOnXR-158" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b-vnCP4PhX5KzBLhOnXR-155" target="b-vnCP4PhX5KzBLhOnXR-157">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b-vnCP4PhX5KzBLhOnXR-155" value="刘恒" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="b-vnCP4PhX5KzBLhOnXR-155" value="刘恒(母为薄姬，是为汉文帝)" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="757" y="345.5" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b-vnCP4PhX5KzBLhOnXR-160" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b-vnCP4PhX5KzBLhOnXR-157" target="b-vnCP4PhX5KzBLhOnXR-159">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b-vnCP4PhX5KzBLhOnXR-157" value="刘启" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="b-vnCP4PhX5KzBLhOnXR-157" value="刘启(母为窦猗房，是为&#xa;汉景帝)" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="757" y="505.5" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="b-vnCP4PhX5KzBLhOnXR-159" value="刘彻" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="b-vnCP4PhX5KzBLhOnXR-159" value="刘彻(母为王娡，是为汉武帝)" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="757" y="665.5" width="190" height="80" as="geometry" />
         </mxCell>
       </root>
